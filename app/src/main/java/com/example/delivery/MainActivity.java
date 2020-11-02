@@ -424,7 +424,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
                         return;
                     }
                 }
-                // 허용했다면 이 부분에서..
+                // 허용했다면 이 부분에서
 
                 break;
         }
